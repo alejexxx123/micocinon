@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cocina", "Cocina\Cocina.csproj", "{A82822DC-1813-4526-B01F-30E2DD76F5DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A82822DC-1813-4526-B01F-30E2DD76F5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A82822DC-1813-4526-B01F-30E2DD76F5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A82822DC-1813-4526-B01F-30E2DD76F5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A82822DC-1813-4526-B01F-30E2DD76F5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A82821C4-4D0F-4BE0-A13E-3F89AFA26B4B}
+	EndGlobalSection
+EndGlobal
